@@ -1,10 +1,10 @@
-package com.brickgit.brainticesorting
+package com.brickgit.kotlinsorting
 
 /**
  * Created by Daniel Lin on 25/05/2017.
  */
 
-import com.brickgit.brainticesorting.sorting.*
+import com.brickgit.kotlinsorting.sorting.*
 import java.util.*
 import kotlin.system.measureNanoTime
 

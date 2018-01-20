@@ -1,4 +1,4 @@
-package com.brickgit.brainticesorting.sorting
+package com.brickgit.kotlinsorting.sorting
 
 /**
  * Created by Daniel Lin on 26/05/2017.

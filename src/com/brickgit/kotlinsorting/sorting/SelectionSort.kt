@@ -1,6 +1,6 @@
-package com.brickgit.brainticesorting.sorting
+package com.brickgit.kotlinsorting.sorting
 
-import com.brickgit.brainticesorting.utils.swap
+import com.brickgit.kotlinsorting.utils.swap
 
 /**
  * Created by Daniel Lin on 26/05/2017.
