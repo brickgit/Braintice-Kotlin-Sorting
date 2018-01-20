@@ -1,2 +1,2 @@
-# Braintice-Kotlin-Sorting
-Brain practice of sorting algorithm using Kotlin
+# Kotlin-Sorting
+Sorting Algorithms in Kotlin
